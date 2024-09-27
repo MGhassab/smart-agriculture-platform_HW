@@ -1,0 +1,5 @@
+.mxproject
+MDK-ARM/*
+!Baghyar.uvprojx
+!startup_stm32f429xx.lst
+!startup_stm32f429xx.s
